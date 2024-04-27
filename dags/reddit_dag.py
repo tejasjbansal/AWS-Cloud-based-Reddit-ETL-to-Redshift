@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 default_args = {
     'owner': 'Tejash Bansal',
-    'start_date': datetime(2024, 04, 22)
+    'start_date': datetime(2024, 4, 22)
 }
 
 file_postfix = datetime.now().strftime("%Y%m%d")
